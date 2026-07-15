@@ -1,4 +1,4 @@
-MOF Adsorption Prediction Platform 🧪
+MOF Adsorption Prediction Platform
 An intelligent materials informatics dashboard built with Streamlit and Python. This tool predicts the equilibrium adsorption capacity (Qe) of Metal-Organic Frameworks (MOFs) for target adsorbates (Methylene Blue & Methyl Orange) using a frozen Stacking Ensemble (Catboost + Gradient Boosting Regressor).
 Installation & Setup
 This application requires Python 3.8 or higher.
